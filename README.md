@@ -5,7 +5,7 @@ Hi, I am ori. I'm 15 and here's everything you need to know about me. I’m a de
 Outside of raw coding, I run two Discord communities. My main project is {EYES} SPAMMER\TOOLS, which I built from the ground up with my partner. We’ve grown it to over 900+ members, and it’s currently my primary source of income.
 What I’m Working On
 
-    {EYES} SPAMMER\TOOLS: Co-founder and owner. We focus on specialized software tools and distribution for a community of nearly 1,000 users. Check it out.
+    {EYES} SPAMMER\TOOLS: Co-founder and owner. We focus on specialized software tools (e.g. Spammer, OSINT etc.) and distribution for a community of nearly 1,000 users. Check it out.
 
     Rift: My current engineering challenge—a high-performance messaging platform built in Go that’s designed to be fast, light, and actually good to use.
 
@@ -28,6 +28,6 @@ Get in touch:
 
     Discord: _untracable
 
-    Project Discord: {EYES} Community
+    Project Discord: https://discord.gg/d3EDacARvk
 
  
