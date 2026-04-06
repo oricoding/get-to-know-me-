@@ -30,4 +30,4 @@ Get in touch:
 
     Project Discord: {EYES} Community
 
-    Email: [Your Email]
+ 
