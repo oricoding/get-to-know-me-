@@ -26,8 +26,8 @@ The Numbers
 
 Get in touch:
 
-    Discord: _untracable
+    Discord: kernelbios
 
-    Project Discord: https://discord.gg/d3EDacARvk
+    
 
  
